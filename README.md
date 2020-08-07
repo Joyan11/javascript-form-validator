@@ -1,2 +1,3 @@
 # javascript-form-validator
-[Codepen](https://codepen.io/Joyan11/pen/NWNPYMa)
+
+[link](https://codepen.io/Joyan11/pen/NWNPYMa)
