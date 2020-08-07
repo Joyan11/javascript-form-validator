@@ -1,3 +1,5 @@
 # javascript-form-validator
 
-[link](https://codepen.io/Joyan11/pen/NWNPYMa)
+Registration form build with HTML/CSS , form validation done with vanilla JS
+
+[Codepen] (https://codepen.io/Joyan11/pen/NWNPYMa)
